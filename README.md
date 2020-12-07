@@ -19,10 +19,10 @@ Added images and table
 
 History of Type
 ===============
-[Version 1](https://sarahcollinson.github.io/John-Baskerville/history-1.html)
+[Version 1](https://sarahcollinson.github.io/John-Baskerville/history-one.html)
 
-[Version 2](https://sarahcollinson.github.io/John-Baskerville/history-2.html)
+[Version 2](https://sarahcollinson.github.io/John-Baskerville/history-two.html)
 
-[Version 3](https://sarahcollinson.github.io/John-Baskerville/history-3.html)
+[Version 3](https://sarahcollinson.github.io/John-Baskerville/history-three.html)
 
-[Version 4](https://sarahcollinson.github.io/John-Baskerville/history-4.html)
+[Version 4](https://sarahcollinson.github.io/John-Baskerville/history-four.html)
