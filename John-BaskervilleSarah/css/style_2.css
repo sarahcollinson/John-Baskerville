@@ -10,7 +10,7 @@ line-height:1em;
 /*------ MAIN STYLING ------*/
 body {
 width: 80%;
-max-width: 600px;
+max-width: 760px;
 margin: auto;
 background: #fdfdfd;
 color: #333;
@@ -43,11 +43,11 @@ margin-top: 2em;
 
 h2 {
 font-size: 1.999em;
-margin: .5em 0 1em 0;
+margin: 0.5em 0 1em 0;
 }
 
 blockquote{
-font-size: 1.414em
+font-size: 1.414em;
 color: #8f0040;
 hanging-punctuation: first;
 text-indent: -0.44em;
@@ -138,8 +138,8 @@ nav a:hover {
     transition: all 0.3s ease-in0out;
 }
 
-/*----- STYLING TABLE -----*/
 
+/*----- STYLING TABLE -----*/
 table {
     margin: auto;
     display: table;
@@ -173,9 +173,17 @@ table, td {
 /*----- IMAGES -----*/
 img {
     display: block;
-    margin: 4em 0;
+    margin: 4em auto;
     padding: 0;
     max-width: 100%;
+}
+
+hr {
+    margin: 5em 0;
+    height: 1px;
+    background: #8f0040;
+    color: #8f0040;
+    border: 0 none;
 }
 
 
