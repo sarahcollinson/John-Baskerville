@@ -10,7 +10,7 @@ Adding new Baskerville file and applied my first CSS styling.
 
 [Version 3](https://sarahcollinson.github.io/John-Baskerville/john_baskerville_three.html)
 
-[Version 3](https://sarahcollinson.github.io/John-Baskerville/john_baskerville_four.html)
+[Version 4](https://sarahcollinson.github.io/John-Baskerville/john_baskerville_four.html)
 
 History of Type
 ===============
