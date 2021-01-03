@@ -43,11 +43,11 @@ margin-top: 2em;
 
 h2 {
 font-size: 1.999em;
-margin: 5em 0 1em 0;
+margin: 0.5em 0 1em 0;
 }
 
 blockquote{
-font-size: 1.414em
+font-size: 1.414em;
 color: #8f0040;
 hanging-punctuation: first;
 text-indent: -0.44em;
@@ -139,9 +139,52 @@ nav a:hover {
 }
 
 
+/*----- STYLING TABLE -----*/
+table {
+    margin: auto;
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    margin-bottom: 2em;
+    width: 100%;
+}
 
+caption {
+    margin: 1.5em 0;
+    text-transform: uppercase;
+}
+th {
+    color: #fdfdfd;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: #8f0040;
+}
 
+th, td {
+    padding: 0.6em
+}
 
+table, td {
+    background: #f9e7ef;
+    border: 2px solid #fdfdfd
+}
+
+/*----- IMAGES -----*/
+img {
+    display: block;
+    margin: 4em auto;
+    padding: 0;
+    max-width: 100%;
+}
+
+hr {
+    margin: 5em 0;
+    height: 1px;
+    background: #8f0040;
+    color: #8f0040;
+    border: 0 none;
+}
 
 
 /*--- FOOTER ---*/
